@@ -1,0 +1,8 @@
+{
+  "folderNotePref": 0,
+  "deleteOutsideNoteWithFolder": false,
+  "indexName": "Pentesting",
+  "autoRename": true,
+  "folderNoteTemplate": "# {{Penetration Testing}}",
+  "logLevel": 4
+}

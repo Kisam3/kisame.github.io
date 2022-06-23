@@ -1,0 +1,29 @@
+{
+  "snippets": {
+    "eager-loud-bear-#9bc645": {
+      "type": "folder",
+      "folders": [],
+      "borderRadius": 6,
+      "hoverDecoration": true,
+      "folderIcon": true,
+      "hideCollapse": false,
+      "hideScrollbar": true,
+      "hideTypes": true,
+      "relationshipLines": true,
+      "default": {
+        "target": "",
+        "lightMode": {
+          "foreground": "var(--text-normal)",
+          "background": "transparent"
+        },
+        "darkMode": {
+          "foreground": "var(--text-normal)",
+          "background": "transparent"
+        }
+      },
+      "id": "eager-loud-bear-#9bc645",
+      "name": "black-scooter",
+      "version": "0.1.8"
+    }
+  }
+}

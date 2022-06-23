@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "5dbbf98ba8d86447",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff7e5516a53eda7e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "1 - Thick-Client Pentesting/4. Testing Methodology/A. Information Gathering.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f9cd3b0fb66714c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc321859df213f3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72766ba79c80eadd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7b765d2c8fb391a3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "de41f4d8b4118092",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfd3ace71581f379",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d23d31b8c5aaaa7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1 - Thick-Client Pentesting/4. Testing Methodology/A. Information Gathering.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ff7e5516a53eda7e",
+  "lastOpenFiles": [
+    "1 - Thick-Client Pentesting/4. Testing Methodology/A. Information Gathering.md",
+    "1 - Thick-Client Pentesting/4. Testing Methodology/B. Network Communication.md",
+    "1 - Thick-Client Pentesting/4. Testing Methodology/C. Client Side Attacks.md",
+    "1 - Thick-Client Pentesting/2. Tools For TC Pentesting.md",
+    "1 - Thick-Client Pentesting/3. Information on Thick Client Pentesting.md",
+    "1 - Thick-Client Pentesting/1. Links.md",
+    "1 - Thick-Client Pentesting/4. Procedure.md",
+    "Pasted image 20220527144315.png",
+    "Pasted image 20220529002058.png",
+    "Pasted image 20220529002114.png"
+  ]
+}
